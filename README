@@ -1,0 +1,11 @@
+
+Implementations of classical ML algorithms in Numpy. Algorithms covered:
+- Linear Regression
+- Logistic Regression
+- Support Vector Machines
+- K Nearest Neighbours
+- Naive Bayes
+- K Means Clustering
+- Decision Trees
+- Bagging
+- Boosting
